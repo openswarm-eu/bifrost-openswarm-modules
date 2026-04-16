@@ -7,6 +7,7 @@ Please refer to the single repositories for more information and documentation. 
 - [Asset-Simulator](#asset-simulator)
 - [Community-Controller](#community-controller)
 - [Controller-Connector](#controller-connector)
+- [Community-Controller Nadzuro2](#community-controller-nadzuro2)
 
 
 ## Asset-Simulator
@@ -42,6 +43,12 @@ Repository:
   - https://code.siemens.com/openswarm/energy-community-controller-bifrost-connector
   - https://github.com/openswarm-eu/bifrost-openswarm-module-controller-connector
 
+## Community-Controller Nadzuro2
+This repository contains the files to create the SCT-supervisors for the [Community-Controller](#community-controller)
+
+Repository: 
+  - https://code.siemens.com/openswarm/energy-community-controller-nadzoru2
+  - https://github.com/openswarm-eu/bifrost-openswarm-module-controller-nadzoru2
 
 # Acknowledgement
 
